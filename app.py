@@ -6,3 +6,4 @@ def division(a,b):
     return a/b
 
 print("decloper a")
+ptint("123")
